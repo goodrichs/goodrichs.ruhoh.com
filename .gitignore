@@ -1,2 +1,6 @@
 compiled/*
+tmp/
 _site/
+
+*.swp
+*.swo

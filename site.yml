@@ -1,11 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Goodrichs.NET
+tagline: Proving there is such thing as too many kids
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Glenn Goodrich 
+  email : glenn@goodrichs.net
+  github : goodrichs
+  twitter : ruprict
 
 navigation :
   - archive.html
