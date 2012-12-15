@@ -113,3 +113,8 @@ html, body {
   text-decoration: underline;
   color: chocolate;
 }
+
+.navbar .nav .active > a, .navbar .nav .active > a:hover {
+  color: chocolate;
+  text-decoration: underline;
+}
