@@ -1,8 +1,8 @@
 layout : disqus
 disqus :
-  short_name : ruprict
+  short_name : goodrichsnet
 livefyre :
-  site_id : 456 
+  site_id : 123
 intensedebate :
   account : 123abc
 facebook :
