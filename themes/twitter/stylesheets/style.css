@@ -117,4 +117,5 @@ html, body {
 .navbar .nav .active > a, .navbar .nav .active > a:hover {
   color: chocolate;
   text-decoration: underline;
+  background-color: #fff;
 }
