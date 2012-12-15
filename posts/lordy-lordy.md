@@ -5,7 +5,7 @@ description: My 40th Birthday
 categories: Birthday
 ---
 
-![The big 40]({{urls.media}}/images/200110107/shapeimage_1.png)
+![The big 40]({{urls.media}}/images/20110107/40pic.jpg)
 
   So, 2011 is here, and with it, my 40th birthday.  I got to the top of Age Mountain on January 7th (day before Elvis, thankya, thankyaverymuch) and was given an appropriately awesome day.  I understand that many of you continue to work on January 7th, disrespecting one of the biggest days of the year.  Know ye that thy actions have consequences, thy disrespect doth not go unnoticed-eth (or something).  For those of you that observed the occasion in the proper manner, I thank you and give you the comfort of knowing that you will be rewarded in the afterlife.
      The day itself started with the kids giving me birthday hugs and kisses, and me going to Starbucks to get my birthday coffee (A Caramel Machiato, whatever a Machiato is...it was nummers).  Horse took me to Chipotle for a Birthday Burrito (Note:  I love Chipotle so much that it scares their staff.  Really.). Outside of that, the remainder of the day was not really atypical for a Friday... well, besides the 4,000 Birthday Wishes on Facebook.  How did we tell people "Happy Birthday" before Facebook?  Birthday wishes and looking at pictures of your exes ("HA!  She's fat now!"), that is what Facebook brings to the table.  Oh, and I talked to my parents which was, looking back, a clue to the day's events.  My parents did that Grandparents On the Phone deal where they both talk at the same time and interrupt every sentence with "Well, thanks for calling!" and then hang up.  It was a super-brief conversation, but I just figured they are grandparents and we had reached that stage.
