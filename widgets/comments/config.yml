@@ -2,7 +2,7 @@ layout : disqus
 disqus :
   short_name : ruprict
 livefyre :
-  site_id : 123
+  site_id : 456 
 intensedebate :
   account : 123abc
 facebook :
