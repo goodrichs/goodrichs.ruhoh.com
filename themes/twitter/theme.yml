@@ -2,7 +2,14 @@
   "stylesheets" : {
     "default" : [
       "bootstrap.min.css",
-      "style.css"
+      "style.css",
+      "xmas2012.css"
+    ],
+    "xmas_person" : [
+      "bootstrap.min.css",
+      "style.css",
+      "xmas2012.css"
+
     ],
    
     "widgets" : {
