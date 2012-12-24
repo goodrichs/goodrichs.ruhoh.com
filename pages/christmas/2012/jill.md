@@ -20,7 +20,7 @@ Some of the trips were reasonable, like Atlanta or Chattanooga. But there were o
 </ul>
 
 
-One of the reasons Jill is at the school so much is volunteering in the kids' classrooms. She "teaches" a bit of science, with the ultimate goal of discovering a way to propel the minivan to the school without using fossil fuels. The kids at the school love it and tell us that they are deathly afraid of going anywhere near Miss Jill's car for fear of being swept away on a 15-hour road trip. In the car. With 4 kids. And no stopping. And no DVD. And no fast-food ("I have some dried apple bits, sweetie. You know, I don't think your gagging noises are very funny!") 
+One of the reasons Jill is at the school so much is volunteering in the kids' classrooms. She "teaches" a bit of science, with the ultimate goal of discovering a way to propel the minivan to the school without using fossil fuels. The kids at the school love it and tell us that they are deathly afraid of going anywhere near Miss Jill's car for fear of being swept away on a 15-hour road trip. In the car. With 4 kids. And no stopping. And no DVD. And no fast-food ("I have some dried apple bits, sweetie. You know, I don't think your gagging noises are very funny!").
 
 The true solution to Jill's dilemna is for the family to move on up, to the East Side. They're thinking a deluxe apartment in the sky may work, but they only have beans and all the apartements they've looked at only have grills. Jill is ever hopeful that they'll get their turn at bat and finally get a piece of the pie.
 

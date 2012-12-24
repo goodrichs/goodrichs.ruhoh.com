@@ -10,6 +10,7 @@
 }
 
 h1.fontface {font: 100px/112px 'AlphaEchoRegular', Arial, sans-serif;letter-spacing: 0;}
+h2.fontface {font: 80px/92px 'AlphaEchoRegular', Arial, sans-serif;letter-spacing: 0;}
 
 .content p{
   font-size: 1.2em;

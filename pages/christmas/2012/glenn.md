@@ -20,7 +20,7 @@ If Glenn's work behaviour was mysterious, his physical appearance has been down-
 
 Some of the things we see on this job just can't be unseen.
 
-Lastly, Glenn started taking drum lessons this year. The motivation seems to have originated in the fact that the family had a drumset on which no one was drumming. Oh, and Glenns likes to hit things. Searching for another reason, we suspect that Glenn is communicating with similarly follicled, nerdy outlaws about potential meetups and tweets. However, up to this point we have only been able to decipher "Hey! I suck at drumming!"
+Lastly, Glenn started taking drum lessons this year. The motivation seems to have originated in the fact that the family had a drumset on which no one was drumming. Oh, and Glenns likes to hit things. Searching for another reason, we suspect that Glenn is communicating with similarly follicled, nerdy outlaws about potential meetups and tweets. However, up to this point we have only been able to decipher "Hey! I stink at drumming!"
 
 In the coming year, Glenn plans to turn his outlaw ways to learning about the game of Soccer. His first lesson is "The Goal: Soccer's Version of the Touchdown" followed by "Real Men Fake Injury" and possibly graduating to "Using the Paintings of Salvador Dali to Explain Offsides". It goes without saying that Glenn tested out of all the Hooligan-level courses.
 
