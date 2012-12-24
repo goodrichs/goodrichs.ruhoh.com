@@ -12,7 +12,7 @@ This is where understanding the mind of the outlaw is most difficult. After spen
 
 Some of the trips were reasonable, like Atlanta or Chattanooga. But there were others that were insanely long, like New Jersey (yes, people still go there.  We've no idea why) and New York. A couple of those trips were around 15 hours. In the car. With 4 kids. And no stopping. And no DVD system. These trips lead many Goodrich outlaw experts to the conclusion that Jill is the craziest of the bunch. If you look closely, you can see the crazy in some of these pictures. 
 
-<ul id="gallery">
+<ul id="gallery" style="margin-bottom: 55px">
 <li> <a class="pic-1" href="{{urls.media}}/images/xmas2012/jill1_big.jpg"><img src="{{urls.media}}/images/xmas2012/jill1.jpg"/></a></li>
 <li> <a class="pic-2" href="{{urls.media}}/images/xmas2012/jill2_big.jpg"><img src="{{urls.media}}/images/xmas2012/jill2.jpg"/></a></li>
 <li> <a class="pic-3" href="{{urls.media}}/images/xmas2012/jill3_big.jpg"><img src="{{urls.media}}/images/xmas2012/jill3.jpg"/></a></li>
