@@ -14,8 +14,9 @@ If Glenn's work behaviour was mysterious, his physical appearance has been down-
 
 <ul id="gallery">
 <li> <a class="pic-1" href="{{urls.media}}/images/xmas2012/hair1_big.jpg"><img src="{{urls.media}}/images/xmas2012/hair1.jpg"/></a></li>
-<li> <a class="pic-2" href="{{urls.media}}/images/xmas2012/hair2_big.jpg"><img src="{{urls.media}}/images/xmas2012/hair2.jpg"/></a></li>
+<li> <a class="pic-4" href="{{urls.media}}/images/xmas2012/hair4_big.jpg"><img style="width:220px" src="{{urls.media}}/images/xmas2012/hair4.jpg"/></a></li>
 <li> <a class="pic-3" href="{{urls.media}}/images/xmas2012/hair3_big.jpg"><img src="{{urls.media}}/images/xmas2012/hair3.jpg"/></a></li>
+<li> <a class="pic-2" href="{{urls.media}}/images/xmas2012/hair2_big.jpg"><img src="{{urls.media}}/images/xmas2012/hair2.jpg"/></a></li>
 </ul>
 
 Some of the things we see on this job just can't be unseen.
