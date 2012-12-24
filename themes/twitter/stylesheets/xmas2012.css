@@ -65,4 +65,9 @@ ul#gallery li a.pic-4 {
   -moz-transform: rotate(10deg);
 }
 
+.footer_nav li{
+  float:left;
+  list-style:none;
+  margin-left: 10px
+}
 
