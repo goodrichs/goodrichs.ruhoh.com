@@ -2,6 +2,7 @@
 compiled/*
 tmp/
 _site/
+.bundle/
 
 *.swp
 *.swo
