@@ -3,13 +3,22 @@
     "default" : [
       "bootstrap.min.css",
       "bootstrap-lightbox.min.css",
-      "style.css"
+      "style.css",
+      "xmas2013.css"
     ],
     "xmas_person" : [
       "bootstrap.min.css",
       "bootstrap-lightbox.min.css",
       "style.css",
       "xmas2012.css"
+
+    ],
+    "xmas_2013" : [
+      "bootstrap.min.css",
+      "bootstrap-lightbox.min.css",
+      "style.css",
+      "xmas2012.css",
+      "xmas2013.css"
 
     ],
    
