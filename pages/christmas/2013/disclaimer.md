@@ -4,7 +4,7 @@ description: Lame attemtp to justify our February Holidat Letter
 layout: xmas_person
 ---
 
-Welcome to the Goodrich 2014 Groundhog Day Newsletter. Yes, you read that right, Groundhog Day. We tried to get out a holiday letter out around the end of December, but were hit with a major case of Writer’s Block. At that point, the decision was made to punt on the usual holiday tome and just send out the typical “Hey, Look at These Photos of Our Beautiful Family Doing Fun Things and, Often, Dressed in Matching Outfits” photo card with a generic holiday message and be done with it. 
+Welcome to the Goodrich 2014 Groundhog Day Newsletter. Yes, you read that right, Groundhog Day. We tried to get a holiday letter out around the end of December, but were hit with a major case of Writer’s Block. At that point, the decision was made to punt on the usual holiday tome and just send out the typical “Hey, Look at These Photos of Our Beautiful Family Doing Fun Things and, Often, Dressed in Matching Outfits” photo card with a generic holiday message and be done with it. 
 
 However, this option hit the following road blocks: 
 
