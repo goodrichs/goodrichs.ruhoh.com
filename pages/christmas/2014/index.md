@@ -62,7 +62,7 @@ The smallest of the time travelers, Becca, spent most of last year in a desolate
 
 * “That’s not fair” means “I didn’t know what else to say, so I went with this. I am not upset."
 * “THAAAAT’S NOOOOOOT FAAAAAAAIR” means “I am on the verge of a nuclear meltdown. I am somewhat upset."
-* <that’s not fair, said at a frequency only dogs can hear> means “I don’t care for asparagus!"
+* "That’s not fair", said at a frequency only dogs can hear means “I don’t care for asparagus!"
 
 Becca is in first grade and very literal. She was asked to write the timeline of her life backwards, so she wrote it ALL backwards, meaning the words were like “enilemit”. The little one spent some time in Gymnastia with Emma, but could really only learn how to say “One-handed cartwheel", which means “That’s not fair.”
 
