@@ -48,6 +48,10 @@ ul#gallery li a {
   position: relative;
 }
 
+ul#gallery li a img { 
+  width: 175px;
+}
+
 ul#gallery li a.pic-1 {
   z-index: 1;
   -webkit-transform: rotate(-10deg);

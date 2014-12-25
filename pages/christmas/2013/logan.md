@@ -18,7 +18,7 @@ Here is a rare photo of Logan casting his spell while ice skating:
 
 <img src="{{urls.media}}/images/xmas2013/logan_uncool.jpg"/>
 
-By the end of the year, Logan was truly become a master of his new craft.
+By the end of the year, Logan was truly becoming a master of his new craft.
 
 However, such gifts are not without a price. It seems the path to teenhood is strewn with perils. Logan seems to have be stricken by a Spell of Hormones, causing him to spin into wild fits over inconsequential events. Here is a transcript of once such fit:
 ***
@@ -32,8 +32,13 @@ However, such gifts are not without a price. It seems the path to teenhood is st
 *** 
 He will emerge from his room sometime later, seemingly free of the recent attack and with almost no memory of it at all. 
 
-We been told that many on the path suffer from such maladies, and that they usually pass. Only time and Glenn's patience will tell.
+We've been told that many on the path suffer from such maladies, and that they usually pass. Only time and Glenn's patience will tell.
 
 When he's not brooding and conjuring, Logan enjoys playing soccer. He plans to try out for the middle school team this year, and if he makes it, it may be the single thing declared cool.
 
-
+<ul id="gallery" style="margin-top: 100px;margin-bottom: 55px">
+<li> <a class="pic-1" href="{{urls.media}}/images/xmas2013/logan1_big.jpg"><img src="{{urls.media}}/images/xmas2013/logan1.jpg"/></a></li>
+<li> <a class="pic-2" href="{{urls.media}}/images/xmas2013/logan2_big.jpg"><img src="{{urls.media}}/images/xmas2013/logan2.jpg"/></a></li>
+<li> <a class="pic-3" href="{{urls.media}}/images/xmas2013/logan3_big.jpg"><img src="{{urls.media}}/images/xmas2013/logan3.jpg"/></a></li>
+<li> <a class="pic-4" href="{{urls.media}}/images/xmas2013/logan4_big.jpg"><img src="{{urls.media}}/images/xmas2013/logan4.jpg"/></a></li>
+</ul>

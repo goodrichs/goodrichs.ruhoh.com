@@ -17,9 +17,9 @@ Finally, Lily competes in the local soccer contests. Soccer at Lily's age consis
 Lily loves the family's new estate, as she can literally dance to school in minutes. She is a happy 2nd grader with a growing love of reading.
 
 <ul id="gallery">
-<li> <a class="pic-1" href="{{urls.media}}/images/xmas2012/lily1_big.jpg"><img src="{{urls.media}}/images/xmas2012/lily1.jpg"/></a></li>
-<li> <a class="pic-2" href="{{urls.media}}/images/xmas2012/lily2_big.jpg"><img src="{{urls.media}}/images/xmas2012/lily2.jpg"/></a></li>
-<li> <a class="pic-3" href="{{urls.media}}/images/xmas2012/lily3_big.jpg"><img src="{{urls.media}}/images/xmas2012/lily3.jpg"/></a></li>
-<li> <a class="pic-4" href="{{urls.media}}/images/xmas2012/lily4_big.jpg"><img src="{{urls.media}}/images/xmas2012/lily4.jpg"/></a></li>
+<li> <a class="pic-1" href="{{urls.media}}/images/xmas2013/lily1_big.jpg"><img src="{{urls.media}}/images/xmas2013/lily1.jpg"/></a></li>
+<li> <a class="pic-2" href="{{urls.media}}/images/xmas2013/lily2_big.jpg"><img src="{{urls.media}}/images/xmas2013/lily2.jpg"/></a></li>
+<li> <a class="pic-3" href="{{urls.media}}/images/xmas2013/lily3_big.jpg"><img src="{{urls.media}}/images/xmas2013/lily3.jpg"/></a></li>
+<li> <a class="pic-4" href="{{urls.media}}/images/xmas2013/lily4_big.jpg"><img src="{{urls.media}}/images/xmas2013/lily4.jpg"/></a></li>
 </ul>
 

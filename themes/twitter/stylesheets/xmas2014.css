@@ -15,7 +15,7 @@
 }
 
 body {
-  color: #966969;
+  color: #1C3EC0;
 }
 
 .navbar .brand, .title{
@@ -23,6 +23,7 @@ body {
   font: 14px/28px 'Doctor Who Regular', Arial, sans-serif;letter-spacing: 0;
   font-size: xx-large;
 }
+h1.xmas2014 { font: 65px/95px 'Doctor Who Regular', Arial, sans-serif;letter-spacing: 0;}
 
 .pic_blurb {
   margin-top: 10px;
@@ -49,6 +50,10 @@ ul#gallery li a {
   -webkit-box-shadow: 0px 2px 15px #333;
   box-shadow: 0px 2px 15px #333;
   position: relative;
+}
+
+ul#gallery li a img { 
+  width: 175px;
 }
 
 ul#gallery li a.pic-1 {
